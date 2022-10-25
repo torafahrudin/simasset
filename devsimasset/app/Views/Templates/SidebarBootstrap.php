@@ -30,7 +30,7 @@
 					<a href="javascript:;" class="has-arrow">
 						<div class="parent-icon"><i class="bx bx-category"></i>
 						</div>
-						<div class="menu-title">Application</div>
+						<div class="menu-title">Applications</div>
 					</a>
 					<ul>
 						<li> <a href="<?=base_url('Pegawai/view')?>"><i class="bx bx-right-arrow-alt"></i>Pegawai</a>
